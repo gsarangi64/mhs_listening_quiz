@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MHS 121 listening quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Listening quiz</h1>
+      <p id="progress" class="progress" aria-live="polite">Loading...</p>
+    </header>
+
+    <!-- Shown only if listenings.json can't be loaded automatically -->
+    <section id="loadError" class="card" hidden>
+      <h2>Couldn't load listenings.json</h2>
+      <p id="loadErrorMsg"></p>
+      <p>Browsers often block loading JSON when a page is opened straight from a folder. Either:</p>
+      <ul>
+        <li>Run <code>python3 -m http.server</code> in this folder, then open <code>http://localhost:8000</code>, or</li>
+        <li>Choose your JSON file here:</li>
+      </ul>
+      <input type="file" id="jsonPicker" accept=".json,application/json" aria-label="Choose listenings.json">
+    </section>
+
+    <section id="quiz" class="card" hidden>
+      <audio id="player" controls preload="metadata"></audio>
+      <p id="audioError" class="audio-error" hidden></p>
+
+      <form id="answerForm" autocomplete="off" novalidate>
+        <div class="field">
+          <label for="title">Title of the piece</label>
+          <input type="text" id="title" name="title" spellcheck="false">
+          <p class="hint">A short version should be fine.</p>
+          <p class="verdict" id="titleVerdict"></p>
+        </div>
+
+        <div class="field">
+          <label for="composer">Composer (last name)</label>
+          <input type="text" id="composer" name="composer" autocapitalize="words" spellcheck="false">
+          <p class="hint">Type "Anonymous" if the piece has no known composer.</p>
+          <p class="verdict" id="composerVerdict"></p>
+        </div>
+
+        <div class="field">
+          <label for="period">Time period</label>
+          <select id="period" name="period"></select>
+          <p class="verdict" id="periodVerdict"></p>
+        </div>
+
+        <div class="field">
+          <label for="genre">Genre</label>
+          <input type="text" id="genre" name="genre" spellcheck="false">
+          <!-- <p class="hint">For example: motet, ballade, paraphrase mass.</p> -->
+          <p class="verdict" id="genreVerdict"></p>
+        </div>
+
+        <div class="actions">
+          <button type="submit" id="checkBtn" class="primary">Check answer</button>
+          <button type="button" id="revealBtn">Show answer</button>
+          <button type="button" id="nextBtn" class="primary" disabled>Next piece</button>
+        </div>
+      </form>
+
+      <div id="result" class="result" aria-live="polite" hidden></div>
+    </section>
+
+    <section id="summary" class="card" hidden>
+      <h2 id="summaryTitle"></h2>
+      <p id="summaryBody"></p>
+      <button type="button" id="newRoundBtn" class="primary">Start new round</button>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

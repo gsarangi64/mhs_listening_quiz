@@ -1,0 +1,357 @@
+[
+  {
+    "audio": "audio/00_victimae_paschali_laudes.mp3",
+    "title": "Victimae paschali laudes (NAWM 42)",
+    "composer": "Anonymous",
+    "composerAccept": [
+      "anonymous",
+      "anon",
+      "unknown",
+      "wipo",
+      "wipo of burgundy"
+    ],
+    "period": "11th century",
+    "genre": "Sequence",
+    "genreAccept": [
+      "sequence",
+      "easter sequence",
+      "chant sequence",
+      "plainchant sequence",
+      "sequence for easter mass"
+    ],
+    "notes": "Sequence for Easter Mass, double-versicle form (paired lines sharing a melody). Traditionally attributed to Wipo of Burgundy; confirm against your notes."
+  },
+  {
+    "audio": "audio/01_jubilemus_exultemus.mp3",
+    "title": "Jubilemus exultemus (NAWM 79)",
+    "composer": "Anonymous",
+    "composerAccept": [
+      "anonymous",
+      "anon",
+      "unknown"
+    ],
+    "period": "Early 12th century",
+    "genre": "Aquitanian polyphony (florid organum)",
+    "genreAccept": [
+      "aquitanian polyphony",
+      "florid organum",
+      "aquitanian organum",
+      "organum",
+      "polyphony",
+      "st martial polyphony"
+    ],
+    "notes": "Many notes in the upper voice over sustained chant notes."
+  },
+  {
+    "audio": "audio/02_leonin_viderunt_omnes.mp3",
+    "title": "Viderunt omnes (NAWM 83)",
+    "composer": "Léonin",
+    "composerAccept": [
+      "leonin",
+      "leoninus"
+    ],
+    "period": "Late 12th century",
+    "genre": "Notre Dame organum",
+    "genreAccept": [
+      "organum",
+      "organum purum",
+      "notre dame organum",
+      "notre dame polyphony",
+      "magnus liber organi"
+    ],
+    "notes": "Check this one: your recording credit may say Alleluia Pascha nostrum rather than Viderunt omnes.",
+    "titleAccept": [
+      "Alleluia Pascha nostrum",
+      "Pascha nostrum"
+    ]
+  },
+  {
+    "audio": "audio/03_perotin_viderunt_omnes.mp3",
+    "title": "Viderunt omnes (NAWM 95)",
+    "composer": "Pérotin",
+    "composerAccept": [
+      "perotin",
+      "perotinus"
+    ],
+    "period": "Early 13th century",
+    "genre": "Notre Dame organum",
+    "genreAccept": [
+      "organum",
+      "notre dame organum",
+      "notre dame polyphony",
+      "organum quadruplum",
+      "organum triplum"
+    ],
+    "notes": "Check this one: your recording credit may say Sederunt principes rather than Viderunt omnes.",
+    "titleAccept": [
+      "Sederunt principes",
+      "Sederunt"
+    ]
+  },
+  {
+    "audio": "audio/04_mout_souvent.mp3",
+    "title": "Mout souvent / Mout ai esté / Mulierum (SA 5)",
+    "composer": "Anonymous",
+    "composerAccept": [
+      "anonymous",
+      "anon",
+      "unknown"
+    ],
+    "period": "Late 13th century",
+    "genre": "Motet",
+    "genreAccept": [
+      "motet",
+      "13th century motet",
+      "french motet",
+      "vernacular motet",
+      "franconian motet"
+    ],
+    "notes": "Verify early vs. late 13th century against your class notes before relying on this."
+  },
+  {
+    "audio": "audio/05_vitry_garrit_gallus.mp3",
+    "title": "Garrit gallus / In nova fert / Neuma (SA 7)",
+    "composer": "Vitry",
+    "composerAccept": [
+      "vitry",
+      "de vitry",
+      "philippe de vitry",
+      "philippe vitry"
+    ],
+    "period": "Early 14th century",
+    "genre": "Isorhythmic motet",
+    "genreAccept": [
+      "motet",
+      "isorhythmic motet",
+      "ars nova motet",
+      "14th century motet",
+      "fauvel motet"
+    ],
+    "notes": "From the Roman de Fauvel tradition. Listen for talea and color."
+  },
+  {
+    "audio": "audio/06_bernart_can_vei.mp3",
+    "title": "Can vei la lauzeta mover (NAWM 53)",
+    "composer": "Bernart de Ventadorn",
+    "composerAccept": [
+      "ventadorn",
+      "de ventadorn",
+      "bernart",
+      "bernart de ventadorn",
+      "ventadour",
+      "bernart de ventadour"
+    ],
+    "period": "Late 12th century",
+    "genre": "Troubadour song",
+    "genreAccept": [
+      "troubadour song",
+      "troubadour chanson",
+      "troubadour",
+      "chanson",
+      "canso",
+      "monophonic song",
+      "secular monophony"
+    ],
+    "notes": "Monophonic, Occitan, fin' amor."
+  },
+  {
+    "audio": "audio/07_machaut_rose_liz.mp3",
+    "title": "Rose, liz, printemps, verdure (NAWM 165)",
+    "composer": "Machaut",
+    "composerAccept": [
+      "machaut",
+      "de machaut",
+      "guillaume de machaut",
+      "guillaume machaut"
+    ],
+    "period": "Late 14th century",
+    "genre": "Rondeau",
+    "genreAccept": [
+      "rondeau",
+      "chanson",
+      "forme fixe",
+      "polyphonic chanson"
+    ],
+    "notes": "Composed around the mid-14th century. Use the early/late half your professor gave.",
+    "titleAccept": [
+      "Rose liz",
+      "Rose, liz"
+    ]
+  },
+  {
+    "audio": "audio/08_machaut_pas_de_tor.mp3",
+    "title": "Pas de tor (SA 17)",
+    "composer": "Machaut",
+    "composerAccept": [
+      "machaut",
+      "de machaut",
+      "guillaume de machaut",
+      "guillaume machaut"
+    ],
+    "period": "Late 14th century",
+    "genre": "Ballade",
+    "genreAccept": [
+      "ballade",
+      "chanson",
+      "forme fixe",
+      "polyphonic chanson"
+    ],
+    "notes": "Composed around the mid-14th century. Form aabC. Use the early/late half your professor gave."
+  },
+  {
+    "audio": "audio/09_landini_nessun_ponga.mp3",
+    "title": "Nessun ponga speranza (SA 20)",
+    "composer": "Landini",
+    "composerAccept": [
+      "landini",
+      "francesco landini"
+    ],
+    "period": "Late 14th century",
+    "genre": "Ballata",
+    "genreAccept": [
+      "ballata",
+      "trecento ballata",
+      "italian ballata"
+    ],
+    "notes": "Trecento repertoire.",
+    "titleAccept": [
+      "Nessun ponga sperança"
+    ]
+  },
+  {
+    "audio": "audio/10_dunstable_quam_pulchra.mp3",
+    "title": "Quam pulchra es (NAWM 194)",
+    "composer": "Dunstable",
+    "composerAccept": [
+      "dunstable",
+      "dunstaple",
+      "john dunstable",
+      "john dunstaple"
+    ],
+    "period": "Early 15th century",
+    "genre": "Motet",
+    "genreAccept": [
+      "motet",
+      "english motet",
+      "marian motet"
+    ],
+    "notes": "Contenance angloise."
+  },
+  {
+    "audio": "audio/11_dufay_gloria_se_la_face.mp3",
+    "title": "Gloria, Missa Se la face ay pale (NAWM 210)",
+    "composer": "Dufay",
+    "composerAccept": [
+      "dufay",
+      "du fay",
+      "guillaume dufay",
+      "guillaume du fay"
+    ],
+    "period": "Late 15th century",
+    "genre": "Cantus firmus mass",
+    "genreAccept": [
+      "cantus firmus mass",
+      "tenor mass",
+      "mass",
+      "mass movement",
+      "gloria",
+      "cyclic mass",
+      "polyphonic mass"
+    ],
+    "notes": "Composed around 1450, right on the early/late boundary. Use the half your professor gave."
+  },
+  {
+    "audio": "audio/12_ockeghem_gloria_prolationum.mp3",
+    "title": "Gloria, Missa Prolationum (SA 27)",
+    "composer": "Ockeghem",
+    "composerAccept": [
+      "ockeghem",
+      "okeghem",
+      "ockegem",
+      "johannes ockeghem",
+      "johannes okeghem"
+    ],
+    "period": "Late 15th century",
+    "genre": "Canonic mass",
+    "genreAccept": [
+      "canonic mass",
+      "canon mass",
+      "mensuration canon mass",
+      "mass",
+      "mass movement",
+      "gloria",
+      "polyphonic mass"
+    ],
+    "notes": "Mensuration canon: voices read the same line under different mensuration signs."
+  },
+  {
+    "audio": "audio/13_josquin_ave_maria.mp3",
+    "title": "Ave Maria (NAWM 259)",
+    "composer": "Josquin",
+    "composerAccept": [
+      "josquin",
+      "des prez",
+      "desprez",
+      "josquin des prez",
+      "josquin desprez",
+      "despres"
+    ],
+    "period": "Late 15th century",
+    "genre": "Motet",
+    "genreAccept": [
+      "motet",
+      "marian motet",
+      "imitative motet"
+    ],
+    "notes": "Points of imitation and clear text declamation."
+  },
+  {
+    "audio": "audio/14_josquin_gloria_hercules.mp3",
+    "title": "Gloria, Missa Hercules dux Ferrarie (SA 37)",
+    "composer": "Josquin",
+    "composerAccept": [
+      "josquin",
+      "des prez",
+      "desprez",
+      "josquin des prez",
+      "josquin desprez",
+      "despres"
+    ],
+    "period": "Late 15th century",
+    "genre": "Cantus firmus mass (soggetto cavato)",
+    "genreAccept": [
+      "cantus firmus mass",
+      "soggetto cavato",
+      "soggetto cavato mass",
+      "soggetto cavato dalle vocali",
+      "mass",
+      "mass movement",
+      "gloria",
+      "polyphonic mass"
+    ],
+    "notes": "The tenor theme is derived from the vowels of the patron's name."
+  },
+  {
+    "audio": "audio/15_josquin_gloria_pange_lingua.mp3",
+    "title": "Gloria, Missa Pange lingua (SA 41)",
+    "composer": "Josquin",
+    "composerAccept": [
+      "josquin",
+      "des prez",
+      "desprez",
+      "josquin des prez",
+      "josquin desprez",
+      "despres"
+    ],
+    "period": "Early 16th century",
+    "genre": "Paraphrase mass",
+    "genreAccept": [
+      "paraphrase mass",
+      "mass",
+      "mass movement",
+      "gloria",
+      "polyphonic mass"
+    ],
+    "notes": "Chant paraphrased in all voices, with imitation."
+  }
+]
